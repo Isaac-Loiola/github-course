@@ -3,4 +3,6 @@
 Arquivo da aula
 Mudando o arquivo pra testar
 
-Mudei o arquivo pra testar o git status mano
+Mudei o arquivo pra testar o git status
+
+Adicionando um testando aqui.
